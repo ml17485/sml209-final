@@ -1,5 +1,5 @@
 <h1>Italiano con turbo.</h1>
-<h2>Interactive Lernwebseite f&uuml;r italienisch Sch&uuml;lerInnen des Niveaus A1.</h2>
+<h2>Interaktive Lernwebseite f&uuml;r italienisch Sch&uuml;lerInnen des Niveaus A1.</h2>
 <p>Diese Webseite erm&ouml;glich das selbstst&auml;ndige erlernen der Italienischen Sprache bis zum Niveau A1. Sie enth&auml;lt umfangreiches &Uuml;bungsmaterial f&uuml;r die Kompetenzbereiche H&ouml;ren, Lesen, Sprechen und Schreiben.</p>
 <ul>
 <li>Einstieg&nbsp; und Erweiterung von Grammatik und Wortschatz</li>
