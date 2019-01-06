@@ -51,3 +51,7 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p>
+<a style="float:right;" href="alfabeto2.html">Continua</a>
+</p>
+<div style="clear:both;">  </div>
