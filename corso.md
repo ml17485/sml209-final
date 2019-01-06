@@ -9,7 +9,6 @@
 <ul>
 <li><strong>bestimmte Artikel</strong></li>
 </ul>
-<p>&nbsp;</p>
 <ul>
 <li><strong>Pr&auml;positionen</strong></li>
 </ul>
