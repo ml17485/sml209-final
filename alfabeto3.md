@@ -44,7 +44,7 @@
 <li>l'hotel</li>
 </ul>
 </li>
-<li><strong><span style="color: #993300;">s+ein zweiter Konsonant</span></strong>
+<li><span style="color: #993300;">s+ein zweiter Konsonant</span>
 <ul>
 <li>lo <span style="color: #993300;">sc</span>olaro, lo <span style="color: #993300;">st</span>udio</li>
 </ul>
@@ -117,7 +117,51 @@
 </tbody>
 </table>
 <ul>
-
+<ul>
+<li><span style="color: #993300;"><strong>IL</strong></span> benutzen wir, <span style="color: #993300;">in allen anderen F&auml;llen</span>.
+<ul>
+<li>Das bedeutet: Wenn ein Wort nicht mit Selbstlauten, z, gn, j, x,.... etc. beginnt, benutzen wir IL.</li>
+<li>Stelle dir also immer die Frage, hat dieses Wort LO als Artikel? Nein? Dann hat es IL!</li>
+<li>Alle w&ouml;rter die im <span style="color: #993300;">Singular IL</span> haben, bekommen<span style="color: #993300;"> im Plural</span> den Artikel<span style="color: #993300;"> I.</span></li>
+<li>Vergissnicht! Im plural &auml;ndern die Nomen ihre Endung von <span style="color: #993300;">-o</span> zu <span style="color: #993300;">-i</span></li>
+</ul>
+</li>
+</ul>
+<table style="height: 142px;" width="530">
+<tbody>
+<tr>
+<td style="width: 125.5px;">Articolo Singolare</td>
+<td style="width: 125.5px;">Nomen Singolar</td>
+<td style="width: 125.5px;">Articolo Plurale</td>
+<td style="width: 125.5px;">Nomen Plurale</td>
+</tr>
+<tr>
+<td style="width: 125.5px;">il</td>
+<td style="width: 125.5px;">gelato</td>
+<td style="width: 125.5px;">i</td>
+<td style="width: 125.5px;">gelati</td>
+</tr>
+<tr>
+<td style="width: 125.5px;">il</td>
+<td style="width: 125.5px;">gioco</td>
+<td style="width: 125.5px;">i</td>
+<td style="width: 125.5px;">giochi</td>
+</tr>
+<tr>
+<td style="width: 125.5px;">il</td>
+<td style="width: 125.5px;">membro</td>
+<td style="width: 125.5px;">i</td>
+<td style="width: 125.5px;">membri</td>
+</tr>
+<tr>
+<td style="width: 125.5px;">il</td>
+<td style="width: 125.5px;">gatto</td>
+<td style="width: 125.5px;">i</td>
+<td style="width: 125.5px;">gatti</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 
 <p>
 <a style="float:right;" href="alfabeto3.html">Continua</a>
