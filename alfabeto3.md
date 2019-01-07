@@ -43,7 +43,7 @@
 <li>l'hotel</li>
 </ul>
 </li>
-<li><strong>s+ein zweiter Konsonant</strong>
+<li>s+ein zweiter Konsonant
 <ul>
 <li>lo scolaro, lo studio</li>
 </ul>
