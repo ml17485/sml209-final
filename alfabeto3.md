@@ -123,7 +123,50 @@
 </ul>
 
 
-
+<ul>
+<li>IL benutzen wir, in allen anderen F&auml;llen.
+<ul>
+<li>Das bedeutet: Wenn ein Wort nicht mit Selbstlauten, z, gn, j, x,.... etc. beginnt, benutzen wir IL.</li>
+<li>Stelle dir also immer die Frage, hat dieses Wort LO als Artikel? Nein? Dann hat es IL!</li>
+<li>Alle w&ouml;rter die im Singular IL haben, bekommen im Plural den Artikel I.</li>
+<li>Vergissnicht! Im plural &auml;ndern die Nomen ihre Endung von -o zu -i</li>
+</ul>
+</li>
+</ul>
+<table style="height: 142px;" width="530">
+<tbody>
+<tr>
+<td style="width: 125.5px;">Articolo Singolare</td>
+<td style="width: 125.5px;">Nomen Singolar</td>
+<td style="width: 125.5px;">Articolo Plurale</td>
+<td style="width: 125.5px;">Nomen Plurale</td>
+</tr>
+<tr>
+<td style="width: 125.5px;">il</td>
+<td style="width: 125.5px;">padre</td>
+<td style="width: 125.5px;">i</td>
+<td style="width: 125.5px;">padri</td>
+</tr>
+<tr>
+<td style="width: 125.5px;">il</td>
+<td style="width: 125.5px;">gioco</td>
+<td style="width: 125.5px;">i</td>
+<td style="width: 125.5px;">giochi</td>
+</tr>
+<tr>
+<td style="width: 125.5px;">il</td>
+<td style="width: 125.5px;">Memory</td>
+<td style="width: 125.5px;">i</td>
+<td style="width: 125.5px;">Memory (Fremdwort!)</td>
+</tr>
+<tr>
+<td style="width: 125.5px;">il</td>
+<td style="width: 125.5px;">tre</td>
+<td style="width: 125.5px;">i</td>
+<td style="width: 125.5px;">tre</td>
+</tr>
+</tbody>
+</table>
 
 
 
