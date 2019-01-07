@@ -117,3 +117,22 @@
 </tbody>
 </table>
 <ul>
+
+
+
+
+
+
+
+
+
+
+<p>
+<a style="float:right;" href="alfabeto3.html">Continua</a>
+</p>
+<div style="clear:both;">  </div>
+<p>
+<a style="float:left;" href="alfabeto2.html">Indietro</a>
+</p>
+<div style="clear:both;">  </div>
+<p>
