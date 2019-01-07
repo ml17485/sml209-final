@@ -12,8 +12,6 @@
 <li>l'olio, l'aglio, l'occhio, l'enti</li>
 </ul>
 </li>
-</ul>
-</li>
 <li><span style="color: #993300;">z</span>
 <ul>
 <li>lo zaino, lo zero</li>
