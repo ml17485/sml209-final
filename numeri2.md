@@ -1,4 +1,4 @@
-<h1>1.2.1 I numeri 11-20 </h1>
+<h1>1.2.1 I numeri 11-100 </h1>
 
 
 <p>Lerne die folgenden zehn Ziffern auswendig. Weiter unten findest du etwas Material um dir beim lernen zu helfen.</p>
