@@ -43,7 +43,7 @@
 <tr>
 <td style="width: 26px;">16</td>
 <td style="width: 70px;">sedici</td>
-<td style="width: 219px;">se~~i~~dici</td>
+<td style="width: 219px;">se<del> i <d/el>dici</td>
 </tr>
 <tr>
 <td style="width: 26px;">17</td>
@@ -68,7 +68,7 @@
 <tr>
 <td style="width: 26px;">21</td>
 <td style="width: 70px;">ventuno</td>
-<td style="width: 219px;">vent~~i~~uno wegen dem Vokal</td>
+<td style="width: 219px;">vent<del> i <d/el>uno wegen dem Vokal</td>
 </tr>
 <tr>
 <td style="width: 26px;">22</td>
@@ -103,7 +103,7 @@
 <tr>
 <td style="width: 26px;">28</td>
 <td style="width: 70px;">ventotto</td>
-<td style="width: 219px;">vent~~i~~otto wegen dem Vokal</td>
+  <td style="width: 219px;">vent<del> i </del>otto wegen dem Vokal</td>
 </tr>
 <tr>
 <td style="width: 26px;">29</td>
