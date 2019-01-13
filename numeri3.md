@@ -48,6 +48,8 @@ Lerne diese paar Verben, du wirst sie bald brauchen!
 
 <iframe src="https://h5p.org/h5p/embed/406963" width="1090" height="805" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+<iframe src="https://h5p.org/h5p/embed/406966" width="1090" height="1002" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <p>Im italienischen wird das Subjekt/die Person mit dem Verb &uuml;bereingestimmt. (parlare= sprechen)</p>
 <table style="height: 147px; width: 230.3px;">
