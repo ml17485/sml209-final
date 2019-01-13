@@ -75,3 +75,17 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+
+
+
+
+<p>
+<a style="float:right;" href="settimana2.html">Continua</a>
+</p>
+<div style="clear:both;">  </div>
+
+<p>
+<a style="float:left;" href="numeri3.html">Indietro</a>
+</p>
+<div style="clear:both;">  </div>
