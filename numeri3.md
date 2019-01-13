@@ -134,11 +134,11 @@ Lerne diese paar Verben, du wirst sie bald brauchen!
 </tbody>
 </table>
 <p>
-<a style="float:right;" href="numeri2.html">Continua</a>
+<a style="float:right;" href="settimana.html">Continua</a>
 </p>
 <div style="clear:both;">  </div>
 
 <p>
-<a style="float:left;" href="settimana.html">Indietro</a>
+<a style="float:left;" href="numeri2.html">Indietro</a>
 </p>
 <div style="clear:both;">  </div>
