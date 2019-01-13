@@ -1,4 +1,5 @@
 <h4>1.2.2 VERBI REGOLARI IN &ndash; ARE</h4>
+Lerne diese paar Verben, du wirst sie bald brauchen!
 <table style="height: 194px;" width="182">
 <tbody>
 <tr>
