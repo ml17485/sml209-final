@@ -9,7 +9,7 @@
 <ul>
 <li>in diesem Fall k&uuml;rzen wir den artikel zu L', das macht die Aussprache leichter und k&uuml;rzer
 <ul>
-<li>l'olio, l'aglio, l'occhio, l'enti</li>
+<li>l'olio, l'aglio, l'occhio, </li>
 </ul>
 </li>
 <li><span style="color: #993300;">z</span>
