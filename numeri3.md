@@ -133,3 +133,12 @@ Lerne diese paar Verben, du wirst sie bald brauchen!
 </tr>
 </tbody>
 </table>
+<p>
+<a style="float:right;" href="numeri2.html">Continua</a>
+</p>
+<div style="clear:both;">  </div>
+
+<p>
+<a style="float:left;" href="settimana.html">Indietro</a>
+</p>
+<div style="clear:both;">  </div>
