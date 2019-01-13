@@ -1,4 +1,4 @@
-<h1>1.2 I Numeri
+<h1>1.2 I Numeri </h1>
   
   <p>Bitte lerne zuerst die folgenden elf Ziffern auswendig. Weiter unten findest du etwas Material um dir beim lernen zu helfen.</p>
 <table style="height: 246px; width: 295.833px;">
