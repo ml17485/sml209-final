@@ -37,7 +37,7 @@
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>Es gibt einige W&ouml;rter die auf -e enden, jedoch nicht auf -ore oder -ione enden. Diese W&ouml;rter sind unregelm&auml;&szlig;ig und m&uuml;ssen man auswendig gelernt werden!</p>
+<p>Es gibt einige W&ouml;rter die auf -e , jedoch nicht auf -ore oder -ione enden. Diese W&ouml;rter sind unregelm&auml;&szlig;ig und m&uuml;ssen man auswendig gelernt werden!</p>
 
 <iframe src="https://h5p.org/h5p/embed/402111" width="899" height="249" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
