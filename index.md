@@ -20,7 +20,9 @@
 </ul>
 </li>
 </ul>
-<p>div style="text-align:center">
-  <a> href="corso.html">Corso A1</a>
+
+
+<p>
+<a style="float:center;" href="corso.html">Zum Kurs</a>
 </p>
-<div style="clear:both;">  </div> </div>
+<div style="clear:both;">  </div><p>
