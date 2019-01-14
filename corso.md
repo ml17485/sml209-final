@@ -16,3 +16,8 @@
 <p>Bez&uuml;glich der Verben beginnen wir mit der Gegenwartsform. Das <strong>Pr&auml;sens</strong> ist ein ekomplizierte Zeite, da die wichtigsten Verben, die f&uuml;r normale Kommunikation ben&ouml;tigt wird, leider unregelm&auml;&szlig;ig sind. Lass dich aber nicht entmutigen, denn alle Anderen Zeiten sind im Handumdrehen erlernt, sobald du das Pr&auml;sens gemeistert hast!</p>
 <p>Wir werden die regelm&auml;&szlig;ige Verben der <strong>ARE&ndash; Konjugation</strong> lernen, gefolgt von der <strong>ERE&ndash; Konjugation</strong>.</p>
 <p><span style="color: #800000;">Bitte beachte, dass <strong>dieser Kurs aufbauend strukturiert</strong> ist, soweit es nicht anders angegeben ist empfiehlt es sich nicht eine &Uuml;bung zu &uuml;berspringen.</span></p>
+
+<p>
+<a style="float:right;" href="alfabeto.html">Auf Geht's!</a>
+</p>
+<div style="clear:both;">  </div><p>
