@@ -1,4 +1,4 @@
-<h1>Italiano con turbo.</h1>
+<h1>Italiano Con Turbo A1 </h1>
 <h2>Interaktive Lernwebseite f&uuml;r italienisch Sch&uuml;lerInnen des Niveaus A1.</h2>
 <p>Diese Webseite erm&ouml;glich das selbstst&auml;ndige erlernen der Italienischen Sprache bis zum Niveau A1. Sie enth&auml;lt umfangreiches &Uuml;bungsmaterial f&uuml;r die Kompetenzbereiche H&ouml;ren, Lesen, Sprechen und Schreiben.</p>
 <ul>
@@ -20,3 +20,7 @@
 </ul>
 </li>
 </ul>
+<p>
+<a style="float:center;" href="corso.html">Corso A1</a>
+</p>
+<div style="clear:both;">  </div>
